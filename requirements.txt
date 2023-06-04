@@ -1,0 +1,6 @@
+openai 
+pytube 
+python-dotenv
+tiktoken 
+pinecone-client 
+git+https://github.com/openai/whisper.git
